@@ -1,6 +1,11 @@
 .nav-link {
-  font-size: large;
+  font-size: medium;
   cursor: pointer;
+}
+
+.navbar-brand {
+  margin-left: 14px;
+  font-size: 14px;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
